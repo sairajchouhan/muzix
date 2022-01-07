@@ -70,6 +70,7 @@
 .faq .faq__title .faq__title--text {
   font-size: 1.6875rem;
   color: var(--primary-title-color);
+  text-align: left;
 }
 
 .faq .faq__text {
